@@ -646,7 +646,7 @@ Do not create artificial timestamps.
 
 TRANSCRIPT DATA:
 
-${JSON.stringify(transcriptData, null, 2)}
+${JSON.stringify(transcriptData)}
 
 Return the complete structured transcript analysis.
 `;
